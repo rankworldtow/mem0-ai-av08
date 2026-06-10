@@ -1,4 +1,4 @@
-# 
+# Exclusif Mem0 flux de travail. Avec intégration de base de données vectorielle et tests automatisés — optimisé pour des performances et une efficacité maximales.
 
 
 
